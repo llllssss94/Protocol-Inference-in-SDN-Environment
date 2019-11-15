@@ -5,6 +5,12 @@ This project proposes an architecture of protocol Inference in SDN environment.
 This is Network Protocol Inference of aSTEAM Project (Next-Generation Information Computing Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT). 
 
 This software constructs SDN environment and inferences protocol state from unknown protocols.
+It contains two sub-module referencing our KU-S-S-EM, KU-S-S-IM projects.
+
+    
+
+
+
 
 ## Requirements and Dependencies
 * OS : `Ubuntu 16.04.6 LTS` ~ `Ubuntu 18.04.1 LTS`
